@@ -19,8 +19,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{BB3419D7-9ACE-4748-B298-D340F8117B86}</ProjectGuid>
-    <RootNamespace>CppSorting</RootNamespace>
+    <ProjectGuid>{08E864C7-F56E-4513-8578-FFD6BCAA1EC8}</ProjectGuid>
+    <RootNamespace>CppLambda</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -110,7 +110,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="setstl.cpp" />
+    <ClCompile Include="addinvector.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

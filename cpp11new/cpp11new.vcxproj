@@ -19,8 +19,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{BB3419D7-9ACE-4748-B298-D340F8117B86}</ProjectGuid>
-    <RootNamespace>CppSorting</RootNamespace>
+    <ProjectGuid>{6EEF3687-70F2-4AF7-82F8-BB7E3BB5DA1D}</ProjectGuid>
+    <RootNamespace>cpp11new</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -110,7 +110,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="setstl.cpp" />
+    <ClCompile Include="keywordsincpp11.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

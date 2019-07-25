@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="setstl.cpp">
+    <ClCompile Include="addinvector.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
